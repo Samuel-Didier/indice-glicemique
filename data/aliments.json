@@ -1,1 +1,3 @@
-@/workspace/user/aliments.json
+[
+  {"food":"Riz blanc","category":"FÉCULENTS & CÉRÉALES","gi":72,"note":"Cuisson courte recommandée"}
+]
