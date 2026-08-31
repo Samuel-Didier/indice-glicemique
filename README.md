@@ -1,0 +1,2 @@
+# indice-glicemique
+Indice glycémique
